@@ -1,0 +1,585 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\phan_mem_thi_trac_nghiem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|d:\\phan_mem_thi_trac_nghiem\\dangnhapform\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\homehs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\homehs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\xemdiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\xemdiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\thongtinhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\thongtinhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\thongtingv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\thongtingv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\quanlyhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\quanlyhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\quanlygiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\quanlygiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\nganhangcauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\nganhangcauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\khond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\khond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\dethihs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\dethihs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\dethi2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\dethi2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\dethi1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\dethi1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\xemdiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\xemdiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\thongtinhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\thongtinhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\thongtingv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\thongtingv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\quanlyhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\quanlyhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\quanlygiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\quanlygiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\nganhangcauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\nganhangcauhoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\homehs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\homehs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\dethihs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\dethihs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\dethi2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\dethi2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\dethi1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\dethi1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|D:\\phan_mem_thi_trac_nghiem\\dangnhapform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A23EBA-FE88-4BFB-AEFD-D741C8A8A39C}|DangNhapForm\\BTL.csproj|solutionrelative:dangnhapform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 293,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThongTinHocSinh.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ThongTinHocSinh.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\ThongTinHocSinh.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ThongTinHocSinh.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ThongTinHocSinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:54:10.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XemDiemSV.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\XemDiemSV.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\XemDiemSV.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\XemDiemSV.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\XemDiemSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:23:52.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ADMIN.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ADMIN.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\ADMIN.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ADMIN.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ADMIN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:23:47.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeHS.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\HomeHS.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\HomeHS.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\HomeHS.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\HomeHS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:52:52.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\Home.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\Home.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\Home.cs [Design]",
+              "RelativeToolTip": "DangNhapForm\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:52:43.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\Home.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\Home.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\Home.cs",
+              "RelativeToolTip": "DangNhapForm\\Home.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:52:45.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThongTinGV.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ThongTinGV.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\ThongTinGV.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ThongTinGV.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ThongTinGV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:54:01.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuenMatKhau.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuenMatKhau.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\QuenMatKhau.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuenMatKhau.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuenMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:22:50.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuanLyHocSinh.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuanLyHocSinh.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\QuanLyHocSinh.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuanLyHocSinh.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuanLyHocSinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:23:45.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanLyGiaoVien.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuanLyGiaoVien.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\QuanLyGiaoVien.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuanLyGiaoVien.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuanLyGiaoVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:23:48.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NganHangCauHoi.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\NganHangCauHoi.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\NganHangCauHoi.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\NganHangCauHoi.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\NganHangCauHoi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:53:09.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KhoND.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\KhoND.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\KhoND.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\KhoND.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\KhoND.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:53:06.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeThiHS.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThiHS.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\DeThiHS.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThiHS.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThiHS.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:24:20.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeThi2.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThi2.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\DeThi2.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThi2.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThi2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:24:22.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeThi1.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThi1.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\DeThi1.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThi1.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThi1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:51:36.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\DangNhap.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DangNhap.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:22:44.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DangKy.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\DangKy.cs",
+              "ToolTip": "D:\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DangKy.cs [Design]",
+              "RelativeToolTip": "..\\BTL\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:22:45.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "XemDiemSV.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\XemDiemSV.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\XemDiemSV.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\XemDiemSV.cs",
+              "RelativeToolTip": "DangNhapForm\\XemDiemSV.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAwAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:23:56.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ThongTinGV.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ThongTinGV.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\ThongTinGV.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ThongTinGV.cs",
+              "RelativeToolTip": "DangNhapForm\\ThongTinGV.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:54:02.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThongTinHocSinh.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ThongTinHocSinh.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\ThongTinHocSinh.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ThongTinHocSinh.cs",
+              "RelativeToolTip": "DangNhapForm\\ThongTinHocSinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:54:11.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QuanLyHocSinh.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuanLyHocSinh.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\QuanLyHocSinh.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuanLyHocSinh.cs",
+              "RelativeToolTip": "DangNhapForm\\QuanLyHocSinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:53:26.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "QuanLyGiaoVien.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuanLyGiaoVien.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\QuanLyGiaoVien.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuanLyGiaoVien.cs",
+              "RelativeToolTip": "DangNhapForm\\QuanLyGiaoVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBQAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:53:18.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NganHangCauHoi.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\NganHangCauHoi.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\NganHangCauHoi.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\NganHangCauHoi.cs",
+              "RelativeToolTip": "DangNhapForm\\NganHangCauHoi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:53:10.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QuenMatKhau.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuenMatKhau.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\QuenMatKhau.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\QuenMatKhau.cs",
+              "RelativeToolTip": "DangNhapForm\\QuenMatKhau.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T14:24:58.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\TaiKhoan.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\TaiKhoan.cs",
+              "RelativeToolTip": "DangNhapForm\\TaiKhoan.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:22:29.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeHS.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\HomeHS.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\HomeHS.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\HomeHS.cs",
+              "RelativeToolTip": "DangNhapForm\\HomeHS.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAABIAAACvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:52:54.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeThiHS.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThiHS.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\DeThiHS.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThiHS.cs",
+              "RelativeToolTip": "DangNhapForm\\DeThiHS.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwA0AAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:52:29.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Modify.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\Modify.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\Modify.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\Modify.cs",
+              "RelativeToolTip": "DangNhapForm\\Modify.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:22:30.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeThi1.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThi1.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\DeThi1.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThi1.cs",
+              "RelativeToolTip": "DangNhapForm\\DeThi1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:51:07.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DangKy.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\DangKy.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DangKy.cs",
+              "RelativeToolTip": "DangNhapForm\\DangKy.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAzwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:47:03.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeThi2.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThi2.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\DeThi2.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DeThi2.cs",
+              "RelativeToolTip": "DangNhapForm\\DeThi2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:24:25.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ADMIN.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ADMIN.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\ADMIN.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\ADMIN.cs",
+              "RelativeToolTip": "DangNhapForm\\ADMIN.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:24:38.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\Connection.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\Connection.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\Connection.cs",
+              "RelativeToolTip": "DangNhapForm\\Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAArwAsAAAC6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:22:36.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\DangNhap.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\DangNhap.cs",
+              "RelativeToolTip": "DangNhapForm\\DangNhap.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDUAAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T13:33:47.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\Program.cs",
+              "RelativeDocumentMoniker": "DangNhapForm\\Program.cs",
+              "ToolTip": "D:\\phan_mem_thi_trac_nghiem\\DangNhapForm\\Program.cs",
+              "RelativeToolTip": "DangNhapForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:24:59.873Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

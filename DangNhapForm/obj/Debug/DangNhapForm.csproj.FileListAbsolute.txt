@@ -1,0 +1,63 @@
+D:\winform\DangNhapForm\DangNhapForm\bin\Debug\DangNhapForm.exe.config
+D:\winform\DangNhapForm\DangNhapForm\bin\Debug\DangNhapForm.exe
+D:\winform\DangNhapForm\DangNhapForm\bin\Debug\DangNhapForm.pdb
+D:\winform\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.csproj.AssemblyReference.cache
+D:\winform\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.DangKy.resources
+D:\winform\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.FormDangNhap.resources
+D:\winform\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.Home.resources
+D:\winform\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.Properties.Resources.resources
+D:\winform\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.QuenMatKhau.resources
+D:\winform\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.csproj.GenerateResource.cache
+D:\winform\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.csproj.CoreCompileInputs.cache
+D:\winform\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.exe
+D:\winform\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.pdb
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\bin\Debug\DangNhapForm.exe.config
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\bin\Debug\DangNhapForm.exe
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\bin\Debug\DangNhapForm.pdb
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.csproj.AssemblyReference.cache
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.DangKy.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.FormDangNhap.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.Properties.Resources.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.QuenMatKhau.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.csproj.GenerateResource.cache
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.csproj.CoreCompileInputs.cache
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.exe
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.pdb
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\BTN1.KhoND.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\BTN1.ThongTinGV.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\BTN1.Home.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\QLGV.QuanLyGiaoVien.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\TaoDeThi.DeThi2.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.ADMIN.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\Nganhangcauhoi.NganHangCauHoi.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\TaoDeThi.btnXemKetQua.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.XemDiemSinhVien.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\HocSinh.DeThi.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\HocSinh.ThongTinDThi.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\HocSinh.ThongTinHocSinh.resources
+C:\Users\HUNG\Documents\Zalo Received Files\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\HocSinh.HomeHS.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.csproj.AssemblyReference.cache
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.ADMIN.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.DangKy.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.FormDangNhap.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\TaoDeThi.DeThi1.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\TaoDeThi.DeThi2.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\TaoDeThi.XemDiemSV.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\Nganhangcauhoi.NganHangCauHoi.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\QLGV.QuanLyGiaoVien.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\BTN1.Home.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.Properties.Resources.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.QuenMatKhau.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\BTN1.ThongTinGV.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.csproj.GenerateResource.cache
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.csproj.CoreCompileInputs.cache
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.exe
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.pdb
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\HocSinh.HomeHS.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\HocSinh.ThongTinHocSinh.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.KhoND.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\bin\Debug\DangNhapForm.exe.config
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\bin\Debug\DangNhapForm.exe
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\bin\Debug\DangNhapForm.pdb
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\HocSinh.DeThiHS.resources
+C:\Users\HUNG\Downloads\DangNhapForm\DangNhapForm\DangNhapForm\obj\Debug\DangNhapForm.QuanLyHocSinh.resources
